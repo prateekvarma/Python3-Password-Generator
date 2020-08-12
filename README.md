@@ -6,6 +6,8 @@
 * Include special characters
 * Include numbers
 
+### *Screenshots :*
+
 ![Screenshot Input Form](https://i.ibb.co/HHdVGBk/PG1.png)
 
 
