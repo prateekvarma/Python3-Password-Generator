@@ -6,8 +6,8 @@
 * Include special characters
 * Include numbers
 
-![Screenshot Input Form](/images/PG1.png)
+![Screenshot Input Form](/PG1.png)
 
 
-![Screenshot Result](/images/PG2.png)
+![Screenshot Result](/PG2.png)
 
