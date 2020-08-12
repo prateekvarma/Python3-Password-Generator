@@ -7,7 +7,7 @@
 * Include numbers
 
 ![Screenshot Input Form](/images/PG1.png)
-Format: ![Alt Text](url)
+
 
 ![Screenshot Result](/images/PG2.png)
-Format: ![Alt Text](url)
+
